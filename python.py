@@ -7,6 +7,9 @@ b = [2, 4, 5] # file edited by author first
 
 
 # eddited from github
+<<<<<<< HEAD
 
 
 print("LLM is good enough")
+=======
+>>>>>>> 3575aa042526d1787d507b701637ba7f36084260
